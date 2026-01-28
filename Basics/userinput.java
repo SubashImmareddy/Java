@@ -25,6 +25,7 @@ public class userinput {
         else{
             System.out.println(name+" "+"is not enrolled");
         }
+      scanner.close();
 
     }
 }
